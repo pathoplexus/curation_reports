@@ -24,4 +24,4 @@ Please list _all_ impacted Pathoplexus accession numbers that may be incorrect d
 Please be sure to list _all_ sequences, so that all can be corrected if necessary.
 
 
-## Thank you so much for reporting a possible error! Curators will review your issue and decide whether or not to take action!
+<!-- Thank you so much for reporting a possible error! Curators will review your issue and decide whether or not to take action! -->
