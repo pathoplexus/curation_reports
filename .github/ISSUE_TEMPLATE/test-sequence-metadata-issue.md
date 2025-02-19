@@ -1,11 +1,13 @@
 ---
-name: Sequence/Metadata Issue
-about: Report a possible inaccuracy in sequences and/or metadata
-title: ''
-labels: 'report'
+name: [TEST] Sequence/Metadata Issue
+about: [TEST] Report a possible inaccuracy in sequences and/or metadata
+title: '[TEST]'
+labels: 'test'
 assignees: ''
 
 ---
+
+_This is a test issue template - you came here from a demo/preview instance of Pathoplexus. To open a real issue, go to the main Pathoplexus repository and open from there: https://pathoplexus.org_
 
 ### Describe the possible issue
 A clear and concise description of what seems to be be wrong with the sequences/metadata.
@@ -22,6 +24,5 @@ If the issue is severe and misleading, and no correction is possible, you can pr
 Please list _all_ impacted Pathoplexus accession numbers that may be incorrect due to the reason above. If some sequences may be incorrect for a _different_ reason, please create a new, separate issue for these.
 
 Please be sure to list _all_ sequences, so that all can be corrected if necessary.
-
 
 <!-- Thank you so much for reporting a possible error! Curators will review your issue and decide whether or not to take action! -->
