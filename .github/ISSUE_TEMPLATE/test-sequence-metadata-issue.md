@@ -1,6 +1,6 @@
 ---
-name: [TEST] Sequence/Metadata Issue
-about: [TEST] Report a possible inaccuracy in sequences and/or metadata
+name: '[TEST] Sequence/Metadata Issue'
+about: '[TEST] Report a possible inaccuracy in sequences and/or metadata'
 title: '[TEST]'
 labels: 'test'
 assignees: ''
